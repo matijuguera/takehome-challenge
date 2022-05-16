@@ -1,8 +1,6 @@
 # HomeVision Backend Take Home
 ## _House image downloader_
 
-[![Build Status](https://travis-ci ?branch=master)](https://github.com/urizz4n/takehome-challenge)
-
 This is a small project in which given a specific API, I wrote a script in Go that does the following:
 
 - Requests the first 10 pages of results from the API
