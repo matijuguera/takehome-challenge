@@ -1,4 +1,4 @@
-# HomeVision Backend Take Home (https://www.notion.so/HomeVision-Backend-Take-Home-94ec9ce5da0341fb9d3dc547a5bc2e15)
+# HomeVision Backend Take Home
 ## _House image downloader_
 
 This is a small project in which given a specific API, I wrote a script in Go that does the following:
